@@ -11,19 +11,19 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Batbayar Galtbalt"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "BG GLT"
-description              : "An amazing website. bna shuu хөө"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : # "Ecologist" # site tagline that appears below site title in masthead
+name                     : "Batbayar Galtbalt"
+description              : "An amazing website. bna shuu"
+url                      : "https://batbayar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "bgaltbalt/batbayar.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -81,16 +81,16 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : BatbrGaltbalt
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 :  "Open Graph/Twitter default site image"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : "person" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -104,27 +104,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Batbayar Baagii"
+  avatar           : /assets/images/bio-photo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **Ecologist**"
+  location         : "United States, Mongolia"
+  email            : # batbayar.galtbalt@gmail.com
+  twitter          : #BatbrGaltbalt
+  github           : #bgaltbalt
+
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      # url: mailto:batbayar.galtlbalt@gmail.com
+    - label: "Cornell Lab of Ornithology"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.birds.cornell.edu/home/staff/batbayar-galtbalt/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/BatbrGaltbalt"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/bgaltbalt"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -134,7 +137,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      #url: "https://twitter.com/BatbrGaltbalt"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -290,3 +293,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
