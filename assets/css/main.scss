@@ -8,20 +8,28 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.site-header-container {
-  position: relative;
-}
+body.about {
+  .site-header-container {
+    position: relative;
+    overflow: hidden;
+    height: 70vh; // Set the height of your header
+  }
 
-.site-header {
-  background-position: top center;
-  background-size: cover;
-  height: 70vh;
-}
+  .site-header {
+    background-position: top center;
+    background-size: cover;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
 
-.navigation {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 1;
+  .navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+  }
 }
