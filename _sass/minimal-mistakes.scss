@@ -39,12 +39,20 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-.navigation {
-    padding: 1rem; // Adjust the padding as needed
-    background-color: rgba(255, 255, 255, 0.8); // Adjust the background color and transparency as needed
+
+.page__hero--overlay {
+  background-image: url('/assets/images/Picture1_web.jpeg'); // Specify the overlay image
+  background-size: cover; // Ensure the overlay image covers the entire container
+  background-position: center; // Center the background image
+  height: 500px; // Adjust the height value as needed
+  color: #ffffff; // Set text color to ensure readability
+
+  .wrapper {
+    position: relative;
+    z-index: 1; // Ensure content is above the background image
   }
-  
-  .custom-header .site-header {
-    z-index: -1;
+
+  #page-title {
+    margin-top: 500px; // Adjust the value based on your needs
   }
-  
+}
