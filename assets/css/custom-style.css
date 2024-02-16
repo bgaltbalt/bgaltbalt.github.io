@@ -1,3 +1,22 @@
 body.page-about .sidebar {
   margin-top: 500px; /* Adjust the value to move the image down by the desired amount */
 }
+
+
+.overlay-image-container {
+  position: relative;
+  margin: 0 auto; /* Center the container */
+  max-width: 1200px; /* Set the maximum width of the container */
+}
+
+.overlay-image {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Adjust the white space by setting the padding */
+.overlay-image-container {
+  padding-left: 20px; /* Adjust as needed */
+  padding-right: 20px; /* Adjust as needed */
+}

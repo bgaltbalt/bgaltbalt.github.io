@@ -2,17 +2,13 @@
 permalink: /about/
 layout: single
 author_profile: false
-title: " "
+title: "About me"
 header:
   overlay_image: /assets/images/Picture1_web.jpeg
 ---
 
 
 
-
-<div style="float: left; margin-right: 100px;">
-  <img src="/assets/images/bio-photo.png" alt="bio" style="width: 150px; height: 150px; border-radius: 50%;">
-</div>
 
 
 
@@ -31,5 +27,12 @@ Currently I am a postdoctoral associate at Cornell Lab of Ornithology, studying 
 of North American birds using eBird citizen science dataset and other climatic models. The goal 
 is to elucidate how extreme climatic events could explain demographic variation throughout the 
 annual cycle of bird populations. 
+
+
+
+<div style="float: left; margin-right: 100px;">
+  <img src="/assets/images/bio-photo.png" alt="bio" style="width: 150px; height: 150px; border-radius: 50%;">
+</div>
+
 
 Learn more about my research here: 

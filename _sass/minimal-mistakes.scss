@@ -45,7 +45,7 @@
   background-size: cover; // Ensure the overlay image covers the entire container
   background-position: center; // Center the background image
   height: 500px; // Adjust the height value as needed
-  color: #ffffff; // Set text color to ensure readability
+  color: #28b228; // Set text color to ensure readability
 
   .wrapper {
     position: relative;
@@ -54,5 +54,8 @@
 
   #page-title {
     margin-top: 500px; // Adjust the value based on your needs
+    color: black;
+    font-weight:lighter;
+
   }
 }
