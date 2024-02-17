@@ -9,14 +9,11 @@ header:
 
 
 
-
-
-
-Hello,
+&nbsp;
 
 I am an ecologist, interested in animal movement, migration and population dynamics. With the aid 
 of field observation, movement tracking and big dataset I try to understand the mechanisms 
-underlying their population change.
+underlying the population change.
 
 During my PhD journey in Australia, I investigated the effects of weather and climate change on 
 long-distance avian migrants. Specifically, I explored how birds select their flight altitude and 
@@ -28,11 +25,15 @@ of North American birds using eBird citizen science dataset and other climatic m
 is to elucidate how extreme climatic events could explain demographic variation throughout the 
 annual cycle of bird populations. 
 
-
+<div style="height: 60px; margin-bottom: 20px;"></div>
 
 <div style="float: left; margin-right: 100px;">
   <img src="/assets/images/bio-photo.png" alt="bio" style="width: 150px; height: 150px; border-radius: 50%;">
 </div>
 
 
-Learn more about my research here: 
+
+
+Learn more about my work on my research page.
+
+[<button style="padding: 10px 20px; background-color: black; color: white; text-decoration: none; border: none; border-radius: 0px;">Research</button>](/research/)

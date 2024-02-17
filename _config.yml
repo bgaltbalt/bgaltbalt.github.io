@@ -109,13 +109,10 @@ author:
   bio              : "I am an **Ecologist**"
   location         : "United States, Mongolia"
   email            : # batbayar.galtbalt@gmail.com
-  twitter          : #BatbrGaltbalt
-  github           : #bgaltbalt
-
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:batbayar.galtlbalt@gmail.com
+      url: mailto:batbayar.galtlbalt@gmail.com
     - label: "Cornell Lab of Ornithology"
       icon: "fas fa-fw fa-link"
       url: "https://www.birds.cornell.edu/home/staff/batbayar-galtbalt/"
@@ -137,13 +134,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/BatbrGaltbalt"
+      url: "https://twitter.com/BatbrGaltbalt"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/bgaltbalt"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
