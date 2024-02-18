@@ -5,6 +5,7 @@ author_profile: false
 title: "About me"
 header:
   overlay_image: /assets/images/Picture1_web.jpeg
+  caption: "&copy; Batbayar Galtbalt"
 ---
 
 
