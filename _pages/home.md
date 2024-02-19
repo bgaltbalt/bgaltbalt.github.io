@@ -15,7 +15,7 @@ intro:
 <!-- &nbsp; -->
 
 I am an ecologist, interested in animal movement, migration and population dynamics. With the aid 
-of field observation, movement tracking and other big dataset I study the mechanisms 
+of field observation, movement tracking and other big dataset I study mechanisms 
 underlying the population change.
 
 Currently I am a postdoctoral associate at [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/staff/batbayar-galtbalt/), studying macro-demography 
