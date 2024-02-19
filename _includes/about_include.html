@@ -1,9 +1,0 @@
-<!-- _includes/about_include.html -->
-
-{% assign about_page = site.pages | where: "name", "about.md" | first %}
-{% if about_page %}
-  {% capture about_content %}{{ about_page.content }}{% endcapture %}
-  {{ about_content | markdownify }}
-{% endif %}
-
-
