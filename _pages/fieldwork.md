@@ -4,7 +4,7 @@ title: "Fieldwork"
 classes: wide
 author_profile: false
 header:
-  image: /assets/images/observation.jpg
+  image: /assets/images/observation2.jpg
 #  caption: "&copy; Batbayar Galtbalt"
 ---
 
