@@ -1,6 +1,6 @@
 ---
-permalink: /gallery/
-title: "Gallery"
+permalink: /fieldwork/
+title: "Fieldwork"
 classes: wide
 author_profile: false
 ---
