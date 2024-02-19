@@ -5,7 +5,7 @@ author_profile : false
 title: " "
 #classes: wide
 header:
-  overlay_image: /assets/images/Picture1_web.jpeg
+  overlay_image: /assets/images/HillsNumrug.jpg
   caption: "&copy; Batbayar Galtbalt"
 intro: 
   - excerpt: '<em style="font-size: 18px;">Avian Ecology • Bird Migration • Population Dynamics • Quantitative Ecology</em>'

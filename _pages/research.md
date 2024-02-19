@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 header:
-  image: /assets/images/sky_ger.jpg
+  image: /assets/images/Picture1_web.jpeg
   caption: "&copy; Batbayar Galtbalt"
 author_profile: false
 layout: splash #  later I can make it collection
