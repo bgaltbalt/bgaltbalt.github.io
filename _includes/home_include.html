@@ -1,0 +1,9 @@
+<!-- _includes/home_include.html -->
+
+{% assign home_page = site.pages | where: "name", "home.md" | first %}
+{% if home_page %}
+  {% capture home_content %}{{ home_page.content }}{% endcapture %}
+  {{ home_content | markdownify }}
+{% endif %}
+
+
