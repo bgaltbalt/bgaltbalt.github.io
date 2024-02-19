@@ -1,5 +1,6 @@
 ---
-title: "Why Demoiselle cranes migrate in loop?"
+title: "Why Demoiselle cranes migrate in a loop?"
+permalink: /
 header:
   image: /assets/images/demoiselle_crane.jpg
   caption: "&copy; Batbayar Galtbalt"
