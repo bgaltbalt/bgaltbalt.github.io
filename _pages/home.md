@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: /
 layout: single
 author_profile : false
 title: " "
@@ -9,7 +9,6 @@ header:
   caption: "&copy; Batbayar Galtbalt"
 intro: 
   - excerpt: '<em style="font-size: 18px;">Avian Ecology • Bird Migration • Population Dynamics • Quantitative Ecology</em>'
-  - classes: wide
 ---
 {% include feature_row id="intro" type="default"  %}
 
@@ -33,7 +32,7 @@ also examined what factors contribute to the population decline of White-naped c
 <div style="height: 60px; margin-bottom: 20px;"></div>
 
 <div style="float: left; margin-right: 100px;">
-  <img src="assets/images/bio_photo.jpg" alt="bio" style="width: 150px; height: 150px; border-radius: 50%;">
+  <img src="/assets/images/bio_photo.jpg" alt="bio" style="width: 150px; height: 150px; border-radius: 50%;">
 </div>
 
 
