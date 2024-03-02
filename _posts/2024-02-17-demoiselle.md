@@ -2,6 +2,7 @@
 title: "Why Demoiselle cranes migrate in a loop?"
 related: false
 read_time: false
+show_date: true
 header:
   image: /assets/images/demoiselle_crane.jpg
   caption: "&copy; Batbayar Galtbalt"
@@ -11,6 +12,7 @@ categories:
 
 
 Although some migratory birds may take different routes during their outbound and inbound migration, the factors causing these differential migrations to and from the breeding grounds, have rarely been investigated. In Northeast Asia, Demoiselle crane performs one of the most extreme [“loop” migrations](https://rdcu.be/dyXAf) known to date. During outbound migration, they cross the Himalayas to non-breeding sites in northwest India. Contrastingly, during inbound migration to the breeding grounds, they fly around the western end of the Himalayas. But why do they do that? 
+
 
 ![demi_migration](/assets/images/demi_migration.jpg)
 <span style="font-size: 14px; font-style: italic;">Migration paths of 16 Demoiselle cranes tracked from Khurkh Khuiten river valleys in Mongolia.</span>

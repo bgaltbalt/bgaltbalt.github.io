@@ -15,18 +15,18 @@ intro:
 
 feature_row:
   - image_path: /assets/images/demoiselle_crane_small.jpg
-#    title: "Macro-demography"
-    excerpt: "Long and arduous journey of Demoiselle cranes over Himalayas"
+    title: "Demoiselle crane migration"
+    excerpt: "Demoiselle cranes fly over Himalayas during southbound migration from their breeding grounds in Mongolia, but they take totally different route during inbound migration."
     btn_label: "Read More"
     btn_class: "btn--primary"
     url: /blog/demoiselle/
-#   - image_path: /assets/images/birdcast.jpg
+  - image_path: /assets/images/wnc_pair_small.jpg
 #     alt: "placeholder image 2"
-#     title: "Birding by radar"
-#     excerpt: "BirdCast generates live migration maps, forecasts and warnings for conservation and public engagement."
-#     url: "blog/birdcast/"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
+    title: "White-naped crane"
+    excerpt: "Breeding and migration performance metrics highlight challenges for White-naped Cranes."
+    url: "blog/whitenaped/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 #   - image_path: assets/images/3billionbirds/3billionbirds.jpg
 #     alt: "placeholder image 1"
 #     title: "3 billion birds lost"
