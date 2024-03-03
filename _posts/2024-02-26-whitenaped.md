@@ -3,6 +3,7 @@ title: "Why is the White-naped crane population declining?"
 related: false
 read_time: false
 show_date: true
+share: false
 header:
   image: /assets/images/wnc_couple.jpg
   caption: "&copy; Batbayar Galtbalt"

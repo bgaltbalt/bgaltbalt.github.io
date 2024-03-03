@@ -3,6 +3,7 @@ title: "Why Demoiselle cranes migrate in a loop?"
 related: false
 read_time: false
 show_date: true
+share: false
 header:
   image: /assets/images/demoiselle_crane.jpg
   caption: "&copy; Batbayar Galtbalt"

@@ -3,6 +3,7 @@ title: "How high do shorebirds fly during migration?"
 related: false
 read_time: false
 show_date: true
+share: false
 header:
   image: /assets/images/whimbrels.jpg
  # caption: "&copy; Batbayar Galtbalt"
