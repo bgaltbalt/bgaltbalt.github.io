@@ -15,7 +15,7 @@ Knowing where birds fly in the air is important in this changing world. Because 
 
 &nbsp;
 ![shorebird_gif](/assets/images/shorebird_gif.gif)
-<span style="font-size: 14px; font-style: italic;">Birds face with many challenges during migration flight. I made this gif image for International Shorebird Twitter Conference-2020.</span> 
+<span style="font-size: 14px; font-style: italic;">Birds face with many challenges during migration flight.</span> 
 
 In our [collaborative study](https://rdcu.be/dAaVy), we determined the effects of wind, humidity, temperature, cloud cover, and altitude (as proxy for climbing costs and air pressure) on flight altitude selection of two long-distance migratory shorebirds, Far eastern curlew and Whimbrel. To reveal the predominant drivers of flight altitude selection during migration we compared the atmospheric conditions at the altitude the birds were found flying with conditions elsewhere in the air column using conditional logistic mixed effect models.
 
