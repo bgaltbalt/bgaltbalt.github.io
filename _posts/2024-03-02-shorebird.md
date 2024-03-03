@@ -6,7 +6,7 @@ show_date: true
 share: false
 header:
   image: /assets/images/whimbrels.jpg
- # caption: "&copy; Batbayar Galtbalt"
+  caption: "Whimbrels in flight"
 categories: 
 - Blog   
 ---

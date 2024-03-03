@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 header:
   image: /assets/images/Picture1_web.jpg
-  caption: "Eurasian cranes preparing for their migration. Khurkh Khuiten NR, northeast Mongolia, 2016. <span style='font-size: 10px;'>&copy; Batbayar Galtbalt</span>"
+  caption: "Eurasian cranes preparing for their migration. Khurkh Khuiten NR, northeast Mongolia, September 2016. <span style='font-size: 10px;'>&copy; Batbayar Galtbalt</span>"
 author_profile: false
 layout: splash #  later I can make it collection
 #collection: posts

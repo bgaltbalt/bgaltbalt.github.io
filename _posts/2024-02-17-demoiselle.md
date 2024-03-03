@@ -6,7 +6,7 @@ show_date: true
 share: false
 header:
   image: /assets/images/demoiselle_crane.jpg
-  caption: "&copy; Batbayar Galtbalt"
+  caption: "Demoiselle cranes, Khurkh Khuiten NR, northeastern Mongolia, July 2016. <span style='font-size: 10px;'>&copy; Batbayar Galtbalt</span>"
 categories: 
 - Blog   
 ---
