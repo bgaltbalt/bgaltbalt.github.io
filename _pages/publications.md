@@ -5,7 +5,7 @@ classes: wide
 author_profile: false
 header:
   image: /assets/images/sunset.jpg
-  caption: "&copy; Batbayar Galtbalt"
+  caption: "<span style='font-size: 10px;'>&copy; Batbayar Galtbalt</span>"
 ---
 
 

@@ -6,7 +6,7 @@ title: " "
 #classes: wide
 header:
   overlay_image: /assets/images/HillsNumrug.jpg
-  caption: "&copy; Batbayar Galtbalt"
+  caption: "Numrug SPA, eastern Mongolia, June 2011. <span style='font-size: 10px;'>&copy; Batbayar Galtbalt</span>"
 intro: 
   - excerpt: '<em style="font-size: 18px;">Avian Ecology • Bird Migration • Population Dynamics • Quantitative Ecology</em>'
 ---

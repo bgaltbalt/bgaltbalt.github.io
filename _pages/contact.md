@@ -6,7 +6,7 @@ author_profile: false
 # classes: wide
 header:
   image: /assets/images/HasagtHairhan.jpg
-  caption: "&copy; Batbayar Galtbalt"
+  caption: "Khasagt khairkhan mountain, southwestern Mongolia, 2015. <span style='font-size: 10px;'>&copy; Batbayar Galtbalt</span>"
 ---
 
 
