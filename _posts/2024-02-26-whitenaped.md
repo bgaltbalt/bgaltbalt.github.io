@@ -1,5 +1,5 @@
 ---
-title: "Why Is the White-naped crane population declining?"
+title: "Why is the White-naped crane population declining?"
 related: false
 read_time: false
 show_date: true
@@ -20,7 +20,7 @@ Wetlands play a crucial role in supporting wildlife and providing essential ecos
 
 While climate change is a primary driver of wetland degradation, the few remaining habitats face an additional threat – the increasing presence of livestock. This added pressure significantly contributes to further degradation, impacting the White-naped cranes. Consequently, fewer pairs of White-naped cranes attempt to lay their eggs in these diminishing nesting sites, characterized by poor food availability and inadequate nest protection.
 
-Historically, White-naped cranes build their nests among islands of aquatic plants, such as reeds, to hide their nest from potential dangers. However, encountering nests on nearly dried wetlands or barren pond islands has become more common. This vulnerability, for instance, to predation, leads to a higher rate of failed breeding attempts. [Our study](https://rdcu.be/dz9Kp) comprehensively illustrates these intricate relationships, providing a clear explanation for the overall decline in the White-naped crane population.
+Historically, White-naped cranes build their nests among islands of aquatic plants, such as reeds, to hide their nest from potential dangers. However, encountering nests on nearly dried wetlands or barren pond islands has become more common. This vulnerability, for instance, to predation and trampling, leads to a higher rate of failed breeding attempts. [Our study](https://rdcu.be/dz9Kp) comprehensively illustrates these intricate relationships, providing a clear explanation for the overall decline in the White-naped crane population.
 
 
 

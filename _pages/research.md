@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 header:
-  image: /assets/images/Picture1_web.jpeg
+  image: /assets/images/Picture1_web.jpg
   caption: "&copy; Batbayar Galtbalt"
 author_profile: false
 layout: splash #  later I can make it collection
@@ -16,7 +16,7 @@ intro:
 feature_row:
   - image_path: /assets/images/demoiselle_crane_small.jpg
     title: "Demoiselle crane migration"
-    excerpt: "Demoiselle cranes fly over Himalayas during southbound migration from their breeding grounds in Mongolia, but they take totally different route during inbound migration."
+    excerpt: "Differences in on-ground and aloft conditions explain seasonally different migration paths in Demoiselle crane."
     btn_label: "Read More"
     btn_class: "btn--primary"
     url: /blog/demoiselle/
@@ -27,13 +27,13 @@ feature_row:
     url: "blog/whitenaped/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-#   - image_path: assets/images/3billionbirds/3billionbirds.jpg
+  - image_path: assets/images/whimbrels_small.jpg
 #     alt: "placeholder image 1"
-#     title: "3 billion birds lost"
-#     excerpt: "Bird biomass tracked by weather radar declined 14% since 2007. 1 in 4 birds have been lost since 1970. Published in journal Science"
-#     url: /blog/3billionbirds/
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
+    title: "Shorebird migration flight altitude"
+    excerpt: "Far eastern curlew and whimbrel prefer flying low - wind support and good visibility appear only secondary factors in determining migratory flight altitude."
+    url: /blog/shorebird/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
