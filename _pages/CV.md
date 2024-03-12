@@ -36,7 +36,10 @@ Email: bg423@cornell.edu
 </blockquote>
 
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px">2002 - 2006 | <span style="font-weight: normal; margin-left: 10px;">Bachelor’s degree,</span> Ecology and Conservation Biology, National University of Mongolia</p>
-
+<blockquote style="margin: 0 0 0 230px; border: none; padding: 0;" class="no-margin">
+  <p style="margin-bottom: 0; font-style: italic; font-weight: 150; font-size: 16px;"><span style="font-weight: normal;">Thesis:</span> Local herders attitude towards Khulan (<i>Equus hemionus hemionus</i>) in Small Gobi SPA</p>
+  <p style="margin-bottom: 0; font-style: normal; font-weight: 150; font-size: 16px;"><span style="font-weight: normal;">Supervisor:</span> J.Jargal</p>
+</blockquote>
 
 <p style="font-weight: 200; margin: 40px 0 10px 100px;">PROFESSIONAL APPOINTMENT </p>
 
@@ -44,7 +47,7 @@ Email: bg423@cornell.edu
 <p style="margin: 0 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 10px;">2023 - current</span> | <span style="font-weight: normal; margin-left: 10px;">Postdoctoral Associate,</span> Cornell Lab of Ornithology, Cornell University, USA</p>
 <p style="margin: 0 150px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Studying macro-demography of North American birds using eBird citizen science dataset and other climatic models.</p>
 
-<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 30px;">2018 - 2022</span>  | <span style="font-weight: normal; margin-left: 10px;">PhD Candidate,</span> Cornell Lab of Ornithology, Cornell University, USA</p>
+<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 30px;">2018 - 2022</span>  | <span style="font-weight: normal; margin-left: 10px;">PhD Candidate,</span> Deakin University, Australia</p>
 <p style="margin: 0 150px 0 260px; font-weight: 150; font-style: italic; font-size: 16px;">	Explored how birds select their flight altitude and migration routes in relation to various conditions both in the atmosphere and on the ground. </p>
 
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 35px;">2015 - 2018</span> | <span style="font-weight: normal; margin-left: 10px;">Wildlife Ecologist,</span> Wildlife Science and Conservation Center (WSCC) of Mongolia</p>
