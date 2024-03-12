@@ -1,6 +1,6 @@
 ---
-permalink: /fieldwork/
-title: "Fieldwork"
+permalink: /gallery/
+title: "Gallery"
 classes: wide
 author_profile: false
 header:
@@ -8,4 +8,4 @@ header:
   caption: "<span style='background-color: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 0px;'><span style='color: rgba(255, 255, 255, 1);'>Houbara bustard survey in Galba Gobi, Mongolia, September 2017</span></span>"
 ---
 
-Content under construction...
+Under construction...
