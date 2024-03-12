@@ -50,13 +50,13 @@ Email: bg423@cornell.edu
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 30px;">2018 - 2022</span>  | <span style="font-weight: normal; margin-left: 10px;">PhD Candidate,</span> Deakin University, Australia</p>
 <p style="margin: 0 150px 0 260px; font-weight: 150; font-style: italic; font-size: 16px;">	Explored how birds select their flight altitude and migration routes in relation to various conditions both in the atmosphere and on the ground. </p>
 
-<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 35px;">2015 - 2018</span> | <span style="font-weight: normal; margin-left: 10px;">Wildlife Ecologist,</span> Wildlife Science and Conservation Center (WSCC) of Mongolia</p>
+<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 35px;">2015 - 2018</span> | <span style="font-weight: normal; margin-left: 10px;">Wildlife Ecologist,</span> Wildlife Science and Conservation Center of Mongolia</p>
 <p style="margin: 0 100px 0 260px; font-weight: 150; font-style: italic; font-size: 16px;">	Monitored breeding population of the White-naped crane. Led fieldworks, data analyses and curation.</p>
 
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px">2014, Sep - Nov | <span style="font-weight: normal; margin-left: 10px;">Research Associate,</span> Cardiff University, UK </p>
-<p style="margin: 0 100px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Extracted DNA from Saker falcon feathers and ran microsatellite PCR for individual identification. </p>
+<p style="margin: 0 100px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Extracted DNA from Saker falcon feathers and ran microsatellite PCR for sex and individual identification. </p>
 
-<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 35px;">2012 - 2015</span> | <span style="font-weight: normal; margin-left: 10px;">Project Manager,</span> Wildlife Science and Conservation Center of Mongolia </p>
+<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 35px;">2012 - 2015</span> | <span style="font-weight: normal; margin-left: 10px;">Project Manager,</span> Wildlife Science and Conservation Center (WSCC) of Mongolia </p>
 <p style="margin: 0 100px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Led project team to implement 5000 artificial nest box monitoring program. </p>
 
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 10px;"> 2011, Mar - Apr</span> | <span style="font-weight: normal; margin-left: 10px;">Internship,</span> Zoological Society of London, UK</p>
