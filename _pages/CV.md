@@ -38,7 +38,7 @@ Email: bg423@cornell.edu
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px">2002 - 2006 | <span style="font-weight: normal; margin-left: 10px;">Bachelor’s degree,</span> Ecology and Conservation Biology, National University of Mongolia</p>
 <blockquote style="margin: 0 0 0 230px; border: none; padding: 0;" class="no-margin">
   <p style="margin-bottom: 0; font-style: italic; font-weight: 150; font-size: 16px;"><span style="font-weight: normal;">Thesis:</span> Local herders attitude towards Khulan (<i>Equus hemionus hemionus</i>) in Small Gobi SPA</p>
-  <p style="margin-bottom: 0; font-style: normal; font-weight: 150; font-size: 16px;"><span style="font-weight: normal;">Supervisor:</span> J.Jargal</p>
+  <p style="margin-bottom: 0; font-style: normal; font-weight: 150; font-size: 16px;"><span style="font-weight: normal;">Supervisors:</span> Dr. Kh.Terbish, J.Jargal</p>
 </blockquote>
 
 <p style="font-weight: 200; margin: 40px 0 10px 100px;">PROFESSIONAL APPOINTMENT </p>
