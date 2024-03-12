@@ -325,7 +325,7 @@ Email: bg423@cornell.edu
 
 <p style="margin: 0px 150px 0 100px; font-weight: 150; font-size: 18px;">
     <span style="font-weight: 300; margin-right: 10px">2024  | </span> 
-    Macrosystems Biology Community Virtual Meeting
+    NSF Macrosystems Biology Community Virtual Meeting
     <span style="color: lightgrey;">poster presentation</span>
 </p>
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px;">
