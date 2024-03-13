@@ -90,7 +90,7 @@ Email: bg423@cornell.edu
     <span style="font-weight: normal;">Galtbalt, B</span>., Batbayar, N., Tuvshintugs, S., Vorneweg, B., Heine, G., Müller, U., Wikelski, M., Klaassen, M., 2022.
     <a href="https://rdcu.be/dAdLQ" style="text-decoration: underline; color: black;">Differences in on-ground and aloft conditions explain seasonally different migration paths in Demoiselle crane</a>,
     <i>Movement Ecology</i> 10:4;
-    Press releases: <a href="https://savingcranes.org/wp-content/uploads/2022/05/2022-MAR-ICF-BUGLE.pdf" style="color: green;"> The Bugle Newsletter</a>
+    <a href="https://savingcranes.org/wp-content/uploads/2022/05/2022-MAR-ICF-BUGLE.pdf" style="color: green;">Press release: The Bugle Newsletter</a>
 </p>
 
 <p style="margin: 20px 150px 0 100px; font-weight: 150; font-size: 18px">
@@ -194,7 +194,7 @@ Email: bg423@cornell.edu
 </p>
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px">
     <span style="font-weight: 300; margin-right: 10px">2018  | </span> 
-    Australian Endeavour Scholarship for PhD research  
+    Australian Government's Endeavour Scholarship for PhD research  
 </p>
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px">
     <span style="font-weight: 300; margin-right: 10px">2014  | </span> 
