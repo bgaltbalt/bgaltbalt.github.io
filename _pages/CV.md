@@ -65,6 +65,8 @@ Email: bg423@cornell.edu
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 35px;">2008 - 2011</span> | <span style="font-weight: normal;margin-left: 10px;">Research Coordnator,</span> ZSL's Steppe Forward Programme in Mongolia </p>
 <p style="margin: 0 100px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Field team leader for the Wildlife Picture Index (WPI) project. Assisted in organizing summer ecological field course for undergraduates. </p>
 
+<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 35px;">2006 - 2008</span> | <span style="font-weight: normal;margin-left: 10px;">Project Assistant,</span> ZSL's Steppe Forward Programme in Mongolia </p>
+<p style="margin: 0 100px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Assisted for community based conservation project implemented in the Gobi PAs. </p>
 
 <p style="font-weight: 200; margin: 40px 0 10px 100px;">PEER REVIEWED PUBLICATIONS </p>
 
