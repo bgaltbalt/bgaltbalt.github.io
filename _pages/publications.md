@@ -57,7 +57,7 @@ Dixon, A., G. Purev-Ochir, **B. Galtbalt**, and N. Batbayar. 2013. [The Use of P
 Townsend, S. E., **B. Galtbalt**, M. Myagmar, J. Baillie, and T. G. O’Brien. 2014. [The Wildlife Picture Index: monitoring Mongolian biodiversity with camera trapping](https://www.researchgate.net/profile/Batbayar-Galtbalt/publication/287878304_The_Wildlife_Picture_Index_monitoring_Mongolian_biodiversity_with_camera_trapping/links/5ec1aabc458515626cb09db2/The-Wildlife-Picture-Index-monitoring-Mongolian-biodiversity-with-camera-trapping.pdf). *Camera Trapping: Wildlife Management and Research* 45.
 
 
-Batmunkh, D., B. Nyambayar, **G. Batbayar**, B. Batbayar, S. Gombobaatar, A. Dixon, and S. Batkhuu. 2014. [Rator electrocution on the 15 kV powerline.](https://resource4.sodonsolution.org/wscc/WildBook/2019/09/17/99x7vg9mvdqwndb4/Batmunkh%20et%20al%202014.pdf) *Toodog* 1:26-32.
+Batmunkh, D., B. Nyambayar, **G. Batbayar**, B. Batbayar, S. Gombobaatar, A. Dixon, and S. Batkhuu. 2014. [Raptor electrocution on the 15 kV powerline.](https://resource4.sodonsolution.org/wscc/WildBook/2019/09/17/99x7vg9mvdqwndb4/Batmunkh%20et%20al%202014.pdf) *Toodog* 1:26-32.
 
 
 S.Gombobaatar, H.J.Brown, D.Sumiya, N.Tseveenmyadag, Sh.Boldbaatar, J.E.M. Baillie, **G.Batbayar**, E.M.Monks, and M.Stubbe, editors. 2011. Summary Conservation Action Plans for Mongolian Birds. Admon printing, Ulaanbaatar.
