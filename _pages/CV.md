@@ -164,7 +164,7 @@ Email: bg423@cornell.edu
     Batmunkh, D., B. Nyambayar, 
     <span style="font-weight: normal;">G. Batbayar</span>, B. Batbayar, S. Gombobaatar, A. Dixon, and S. Batkhuu. 2014.
     <a href="https://resource4.sodonsolution.org/wscc/WildBook/2019/09/17/99x7vg9mvdqwndb4/Batmunkh%20et%20al%202014.pdf" style="text-decoration: underline; color: black;">
-        Rator electrocution on the 15 kV powerline.</a> 
+        Raptor electrocution on the 15 kV powerline.</a> 
     <i>Toodog</i> 1:26-32.
 </p>
 
