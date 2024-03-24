@@ -22,7 +22,7 @@ feature_row:
     url: /blog/demoiselle/
   - image_path: /assets/images/wnc_pair_small.jpg
 #     alt: "placeholder image 2"
-    title: "White-naped crane"
+    title: "White-naped cranes in the global change"
     excerpt: "Breeding and migration performance metrics highlight challenges for White-naped Cranes."
     url: "blog/whitenaped/"
     btn_label: "Read More"

@@ -316,12 +316,12 @@ Email: bg423@cornell.edu
 </p>
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px;">
     <span style="font-weight: 300; margin-right: 10px">2005 | </span> 
-    Field volunteer for "Community based conservation project" in Gobi Gurvansaikhan NP, Mongolia
+    Field researcher for the "Community based conservation project" in Gobi Gurvansaikhan NP, Mongolia
     <span style="color: lightgrey;">60 days</span>
 </p>
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px;">
     <span style="font-weight: 300; margin-right: 10px">2004 | </span> 
-    Field assistant for bird and small mammal monitoring at project "Khuvsgul lake", Northern Mongolia
+    Field assistant for the bird and small mammal monitoring, "Khuvsgul lake" project, Northern Mongolia
     <span style="color: lightgrey;">90 days</span>
 </p>
 
