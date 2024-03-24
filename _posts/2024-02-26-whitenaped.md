@@ -13,7 +13,7 @@ categories:
 
 
 
-Wetlands play a crucial role in supporting wildlife and providing essential ecosystem services. However, these habitats are degrading rapidly, especially in northeast Mongolia, the breeding ground for our focal species, the White-naped cranes.
+Wetlands play a crucial role in supporting wildlife and providing essential ecosystem services. However, these habitats are degrading rapidly, especially in northeast Mongolia where our focal species, the White-naped cranes, breed.
 
 &nbsp;
 ![ulziit](/assets/images/ulziit.jpg)
