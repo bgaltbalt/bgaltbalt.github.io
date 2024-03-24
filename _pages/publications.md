@@ -51,7 +51,7 @@ Dixon, A., G. Purev-Ochir, **B. Galtbalt**, and N. Batbayar. 2013. [The Use of P
 
 <div style="height: 40px; margin-bottom: 20px;"></div>
 
-**Non-refereed Publications**
+**Non-peer reviewed publications**
 
 
 Townsend, S. E., **B. Galtbalt**, M. Myagmar, J. Baillie, and T. G. O’Brien. 2014. [The Wildlife Picture Index: monitoring Mongolian biodiversity with camera trapping](https://www.researchgate.net/profile/Batbayar-Galtbalt/publication/287878304_The_Wildlife_Picture_Index_monitoring_Mongolian_biodiversity_with_camera_trapping/links/5ec1aabc458515626cb09db2/The-Wildlife-Picture-Index-monitoring-Mongolian-biodiversity-with-camera-trapping.pdf). *Camera Trapping: Wildlife Management and Research* 45.

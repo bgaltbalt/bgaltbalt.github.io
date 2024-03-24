@@ -148,7 +148,7 @@ Email: bg423@cornell.edu
     <i>Journal of Raptor Research</i>, 47, 282-291.
 </p>
 
-<p style="font-weight: 200; margin: 60px 0 10px 100px;">NON-REFEREED PUBLICATIONS </p>
+<p style="font-weight: 200; margin: 60px 0 10px 100px;">NON-PEER REVIEWED PUBLICATIONS </p>
 
 <p style="margin: 0px 150px 0 100px; font-weight: 150; font-size: 18px">
     <span style="font-weight: 100; margin-right: 25px">2014  |  </span> 
