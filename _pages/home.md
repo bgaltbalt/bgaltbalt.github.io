@@ -28,10 +28,8 @@ long-distance avian migrants. Specifically, I explored how birds select their fl
 migration routes in relation to various conditions both in the atmosphere and on the ground. I 
 also examined what factors contribute to the population decline of White-naped crane.
 
-<span style="font-size: 26px;">Contact me</span><br>
-**Email**: [batbayar.galtbalt@gmail.com](mailto:batbayar.galtbalt@gmail.com)
 
-<div style="height: 60px; margin-bottom: 20px;"></div>
+
 
 <div style="float: left; margin-right: 100px;">
   <img src="/assets/images/bio_photo.jpg" alt="bio" style="width: 150px; height: 150px; border-radius: 50%;">
@@ -41,6 +39,11 @@ also examined what factors contribute to the population decline of White-naped c
 Learn more about my work on my research page.
 
 [<button style="padding: 10px 20px; background-color: black; color: white; text-decoration: none; border: none; border-radius: 0px;">Research</button>](/research/)
+
+<div style="height: 60px; margin-bottom: 0px;"></div>
+
+<span style="font-size: 26px;">Contact me</span><br>
+**Email**: [batbayar.galtbalt@gmail.com](mailto:batbayar.galtbalt@gmail.com)
 
 <div style="height: 60px; margin-bottom: 0px;"></div>
 
