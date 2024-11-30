@@ -1,12 +1,14 @@
 ---
-permalink: /CV/
 title: "CV"
+permalink: /CV/
 layout: splash
-author_profile: false
-#classes: wide
+output:
+  html_document:
+    df_print: paged
 header:
   image: /assets/images/HasagtHairhan.jpg
   caption: "Khasagt khairkhan mountain, western Mongolia, August 2015. <span style='font-size: 10px;'>&copy; Batbayar Galtbalt</span>"
+author_profile: false
 ---
 
 
@@ -16,8 +18,8 @@ header:
 <span style="font-size: 30px;">BATBAYAR GALTBALT </span>
 {: style="text-align: center;"}
 
-Cornell Lab of Ornithology<br> Cornell University - Ithaca, NY 14850<br>
-Email: bg423@cornell.edu 
+Wildlife Corservation Society <br> Ulaanbaatar, Mongolia<br>
+Email: batbayar.galtbalt@gmail.com 
 {: style="text-align: center; font-weight: 150; font-size: 16px"}
 
 
@@ -43,8 +45,10 @@ Email: bg423@cornell.edu
 
 <p style="font-weight: 200; margin: 40px 0 10px 100px;">PROFESSIONAL APPOINTMENT </p>
 
+<p style="margin: 0 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 12px;">2024 - current</span> | <span style="font-weight: normal; margin-left: 10px;">Wildlife Ecologist,</span> Wildlife Conservation Society, Ulaanbaatar, Mongolia</p>
+<p style="margin: 0 150px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Focuses on understanding how wildlife populations, particularly ungulates and birds are responding to global environmental changes.</p>
 
-<p style="margin: 0 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 10px;">2023 - current</span> | <span style="font-weight: normal; margin-left: 10px;">Postdoctoral Associate,</span> Cornell Lab of Ornithology, Cornell University, USA</p>
+<p style="margin: 0 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 28px;">2023 - 2024</span> | <span style="font-weight: normal; margin-left: 10px;">Postdoctoral Associate,</span> Cornell Lab of Ornithology, Cornell University, USA</p>
 <p style="margin: 0 150px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Studying macro-demography of North American birds using eBird citizen science dataset and other climatic models.</p>
 
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 30px;">2018 - 2022</span>  | <span style="font-weight: normal; margin-left: 10px;">PhD Candidate,</span> Deakin University, Australia</p>
@@ -69,6 +73,27 @@ Email: bg423@cornell.edu
 <p style="margin: 0 100px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Assisted for community based conservation project implemented in the Gobi PAs. </p>
 
 <p style="font-weight: 200; margin: 40px 0 10px 100px;">PEER REVIEWED PUBLICATIONS </p>
+<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px"> 
+    <span style="font-weight: 100; margin-right: 25px">* Indicates joint-first authorship </span>
+
+<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px">
+    <span style="font-weight: 100; margin-right: 25px">2024  |  </span>
+    <span style="font-weight: normal;">B. Galtbalt*</span>, 
+    Socolar, J.*, A. Johnston, F. A. La Sorte, O. J. Robinson, K. V. Rosenberg, and A. M. Dokter. 2024.
+    <a href="https://doi.org/10.1111/ecog.07349" style="text-decoration: underline; color: black;">
+        Seasonal macro-demography of North American bird populations revealed through participatory science
+    </a>. 
+    <i>Ecography</i> e07349.</p>
+
+<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px">
+    <span style="font-weight: 100; margin-right: 25px">2024  |  </span>
+    Yanco, S. W., R. Y. Oliver, F. Iannarilli, B. S. Carlson, G. Heine, U. Mueller, N. Richter, B. Vorneweg, Y. Andryushchenko, N. Batbayar, M. Dagys, M. Desholm,
+    <span style="font-weight: normal;">B. Galtbalt</span>, 
+    A. E. Gavrilov, O. A. Goroshko, E. I. Ilyashenko, V. Y. Ilyashenko, J. Månsson, E. A. Mudrik, T. Natsagdorj, L. Nilsson, S. Sherub, H. Skov, T. Sukhbaatar, R. Zydelis, M. Wikelski, W. Jetz, and I. Pokrovsky. 2024.
+    <a href="https://doi.org/10.1073/pnas.2316827121" style="text-decoration: underline; color: black;">
+        Migratory birds modulate niche tradeoffs in rhythm with seasons and life history
+    </a>. 
+    <i>Proceedings of the National Academy of Sciences</i> 121:e2316.</p>
 
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px">
     <span style="font-weight: 100; margin-right: 25px">2024  |  </span>

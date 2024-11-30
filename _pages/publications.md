@@ -7,18 +7,23 @@ header:
   image: /assets/images/sunset.jpg
   caption: "<span style='font-size: 10px;'>&copy; Batbayar Galtbalt</span>"
 ---
+\* Indicates joint-first authorship
 
 Follow my work on [Google Scholar](https://scholar.google.com.au/citations?user=lyXjumMAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Batbayar-Galtbalt).
 
-
 <div style="height: 40px; margin-bottom: 20px;"></div>
 
-**In Revision**<br>
+<!-- **In Revision**<br>
 A manuscript under revision with double-blind peer review journal.
 
 <div style="height: 40px; margin-bottom: 20px;"></div>
+-->
 
 **2024**<br>
+**B. Galtbalt**\*, Socolar, J.\*, A. Johnston, F. A. La Sorte, O. J. Robinson, K. V. Rosenberg, and A. M. Dokter. 2024. [Seasonal macro-demography of North American bird populations revealed through participatory science](https://doi.org/10.1111/ecog.07349). *Ecography* e07349.
+
+Yanco, S. W., R. Y. Oliver, F. Iannarilli, B. S. Carlson, G. Heine, U. Mueller, N. Richter, B. Vorneweg, Y. Andryushchenko, N. Batbayar, M. Dagys, M. Desholm, **B. Galtbalt**, A. E. Gavrilov, O. A. Goroshko, E. I. Ilyashenko, V. Y. Ilyashenko, J. Månsson, E. A. Mudrik, T. Natsagdorj, L. Nilsson, S. Sherub, H. Skov, T. Sukhbaatar, R. Zydelis, M. Wikelski, W. Jetz, and I. Pokrovsky. 2024. [Migratory birds modulate niche tradeoffs in rhythm with seasons and life history](https://doi.org/10.1073/pnas.2316827121). *Proceedings of the National Academy of Sciences* 121:e2316
+
 Zhang, Y., Z. Gu, B. Bold, B. Davaasuren, **B. Galtbalt**, A. Gungaa, G. Purev-Ochir, N. Batbayar, L. Rahman, X. Li, Q. Dai, X. Zhan, and A. Dixon. 2024. [Environmental effects on reproduction in a managed population of the harvested and Endangered Saker Falcon *Falco cherrug*](https://doi.org/10.1017/S095927092300031X). *Bird Conservation International* 34:e4.
 
 
