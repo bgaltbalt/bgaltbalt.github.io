@@ -3,11 +3,14 @@ title: "CV"
 permalink: /CV/
 layout: splash
 output:
+  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
 header:
   image: /assets/images/HasagtHairhan.jpg
-  caption: "Khasagt khairkhan mountain, western Mongolia, August 2015. <span style='font-size: 10px;'>&copy; Batbayar Galtbalt</span>"
+  caption: "Khasagt khairkhan mountain, western Mongolia, August 2015. <span style='font-size:
+    10px;'>&copy; Batbayar Galtbalt</span>"
 author_profile: false
 ---
 
@@ -380,7 +383,7 @@ Email: batbayar.galtbalt@gmail.com
 </p>
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px;">
     <span style="font-weight: 300; margin-right: 10px">2020  | </span> 
-    International Water Study Group Virtual Conference
+    International Wader Study Group Virtual Conference
     <span style="color: lightgrey;">oral presentation</span>
 </p>
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px;">
