@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # "Ecologist" # site tagline that appears below site title in masthead
 name                     : "Batbayar Galtbalt"
 description              : "An amazing website. bna shuu"
-url                      : "https://batbayar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bgaltbalt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/home"
 repository               : "bgaltbalt/bgaltbalt.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
