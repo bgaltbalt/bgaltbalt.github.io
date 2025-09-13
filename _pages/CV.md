@@ -21,7 +21,7 @@ author_profile: false
 <span style="font-size: 30px;">BATBAYAR GALTBALT </span>
 {: style="text-align: center;"}
 
-Wildlife Corservation Society <br> Ulaanbaatar, Mongolia<br>
+Wildlife Conservation Society <br> Ulaanbaatar, Mongolia<br>
 Email: batbayar.galtbalt@gmail.com 
 {: style="text-align: center; font-weight: 150; font-size: 16px"}
 
