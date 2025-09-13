@@ -14,19 +14,19 @@ intro:
 
 <!-- &nbsp; -->
 
-I am an ecologist, interested in animal movement, migration and population dynamics. With the aid 
-of field observation, movement tracking and other big dataset I study mechanisms 
-underlying the population change.
+I am an ecologist, interested in animal movement, migration and population dynamics. Using
+the field observations, movement tracking, and large ecological datasets, I study mechanisms 
+driving population change.
 
-Currently I am a postdoctoral associate at [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/staff/batbayar-galtbalt/), studying macro-demography 
-of North American birds using eBird citizen science dataset and other climatic models. The goal 
-is to elucidate how extreme climatic events could explain demographic variation throughout the 
-annual cycle of bird populations. 
+Currently I lead the Connectivity and Climate Change team at [WCS Mongolia](https://mongolia.wcs.org/en-us/About-Us.aspx), where we conduct
+research and conservation to understand and mitigate impacts of habitat fragmentation and climate extremes on wildlife populations.
 
-During my PhD journey in Australia, I investigated the effects of weather and climate change on 
-long-distance avian migrants. Specifically, I explored how birds select their flight altitude and 
-migration routes in relation to various conditions both in the atmosphere and on the ground. I 
-also examined what factors contribute to the population decline of White-naped crane.
+Previously, I was a postdoctoral researcher at the [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/staff/batbayar-galtbalt/), where I studied the macro-demography 
+of North American birds using eBird citizen science dataset and climatic models. 
+
+During my PhD in Australia, I investigated how weather and climate change influence 
+long-distance avian migrants. My research explored how birds select their flight altitudes and 
+migration routes under varying atmospheric conditions and on-ground conditions, as well as the drivers of population decline in White-naped crane.
 
 
 

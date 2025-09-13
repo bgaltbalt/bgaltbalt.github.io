@@ -48,11 +48,11 @@ Email: batbayar.galtbalt@gmail.com
 
 <p style="font-weight: 200; margin: 40px 0 10px 100px;">PROFESSIONAL APPOINTMENT </p>
 
-<p style="margin: 0 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 12px;">2025, June - current</span> | <span style="font-weight: normal; margin-left: 10px;">Connectivity and Climate Change Manager,</span> Wildlife Conservation Society, Ulaanbaatar, Mongolia</p>
-<p style="margin: 0 150px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Leads WCS Mongolia’s Connectivity and Climate Change team, advancing research and conservation to understand and mitigate impacts of habitat fragmentation and climate extremes on wildlife populations.</p>
+<p style="margin: 0 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 28px;">2025, June- </span> | <span style="font-weight: normal; margin-left: 10px;">Connectivity and Climate Change Manager,</span> Wildlife Conservation Society, Ulaanbaatar, Mongolia</p>
+<p style="margin: 0 150px 0 260px; margin-top: 0px; margin-bottom: 10px; font-weight: 150; font-style: italic; font-size: 16px;">	Leads WCS Mongolia’s Connectivity and Climate Change team, advancing research and conservation to understand and mitigate impacts of habitat fragmentation and climate extremes on wildlife populations.</p>
 
-<p style="margin: 0 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 12px;">2024 - 2025 </span> | <span style="font-weight: normal; margin-left: 10px;">Wildlife Ecologist,</span> Wildlife Conservation Society, Ulaanbaatar, Mongolia</p>
-<p style="margin: 0 150px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Focuses on understanding how wildlife populations, particularly ungulates and birds are responding to global environmental changes.</p>
+<p style="margin: 0 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 28px;">2024 - 2025 </span> | <span style="font-weight: normal; margin-left: 10px;">Wildlife Ecologist,</span> Wildlife Conservation Society, Ulaanbaatar, Mongolia</p>
+<p style="margin: 0 150px 0 260px; margin-top: 0px; margin-bottom: 10px; font-weight: 150; font-style: italic; font-size: 16px;">	Focuses on understanding how wildlife populations, particularly ungulates and birds are responding to global environmental changes.</p>
 
 <p style="margin: 0 150px 0 100px; font-weight: 150; font-size: 20px"><span style="margin-right: 28px;">2023 - 2024</span> | <span style="font-weight: normal; margin-left: 10px;">Postdoctoral Associate,</span> Cornell Lab of Ornithology, Cornell University, USA</p>
 <p style="margin: 0 150px 0 260px; margin-top: 0px; font-weight: 150; font-style: italic; font-size: 16px;">	Studying macro-demography of North American birds using eBird citizen science dataset and other climatic models.</p>
