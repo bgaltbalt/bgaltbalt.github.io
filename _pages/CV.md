@@ -80,7 +80,37 @@ Email: batbayar.galtbalt@gmail.com
     <span style="font-weight: 100; margin-right: 25px">* Indicates joint-first authorship </span>
 
 <p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px">
-    <span style="font-weight: 100; margin-right: 25px">2024  |  </span>
+    <span style="font-weight: 100; margin-right: 25px">2025  |  </span>
+    <span style="font-weight: normal;">Galtbalt, B</span>, 
+    McGinness, H. M., Rapley, S., Jackson, M. V., Lloyd-Jones, L. R., Robinson, F., O’Neill, L., Piper, M., Davies, M., Martin, J., Kingsford, R., Brandis, K., Mac Nally, R., Klaassen, M., Langston, A., Hodgson, J., & Doerr, V. 2025. 
+    <a href="https://doi.org/10.1071/WR24160" style="text-decoration: underline; color: black;">
+        Flight heights in ibis and spoonbills: Implications for collision risk
+    </a>. 
+    <i>Wildlife Research</i> 52(9).</p>
+
+<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px">
+    <span style="font-weight: 100; margin-right: 25px">2025  |  </span>
+    Bold, B., 
+    <span style="font-weight: normal;">Galtbalt, B</span>,
+    Davaasuren, B., Purev-Ochir, G., Gungaa, A., Saruul, A., Ichinkhorloo, S., Lkhagvajav, A., Batbayar, N., Zhang, Y., Lin, Z., Dixon, A., & Zhan, X. 2025.
+    <a href="https://doi.org/10.1016/j.avrs.2025.100277" style="text-decoration: underline; color: black;">
+        Mammal-rich diet associated with reproductive success of Saker Falcons in Mongolia
+    </a>. 
+    <i>Avian Research</i> 16(3).</p>
+
+
+<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px">
+    <span style="font-weight: 100; margin-right: 25px">2025  |  </span>
+    Purevdorj, A., Purev-Ochir, G., Gungaa, A., Bold, B., Davaasuren, B., Ganbold, M., 
+    <span style="font-weight: normal;">Galtbalt, B</span>, 
+    Batbayar, N., Rahman, L., & Dixon, A. 2025.
+    <a href="https://doi.org/10.1111/ecog.07349" style="text-decoration: underline; color: black;">
+        Electrocution of Steppe Eagles and Golden Eagles in Mongolia
+    </a>. 
+    <i>Journal of Raptor Research</i> 59(2), 1–8.</p>
+    
+<p style="margin: 10px 150px 0 100px; font-weight: 150; font-size: 18px">
+    <span style="font-weight: 100; margin-right: 25px">2025  |  </span>
     <span style="font-weight: normal;">B. Galtbalt*</span>, 
     Socolar, J.*, A. Johnston, F. A. La Sorte, O. J. Robinson, K. V. Rosenberg, and A. M. Dokter. 2024.
     <a href="https://doi.org/10.1111/ecog.07349" style="text-decoration: underline; color: black;">

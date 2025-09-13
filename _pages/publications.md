@@ -19,9 +19,20 @@ A manuscript under revision with double-blind peer review journal.
 <div style="height: 40px; margin-bottom: 20px;"></div>
 -->
 
-**2024**<br>
+
+
+
+**2025**<br>
+**Galtbalt, B**., McGinness, H. M., Rapley, S., Jackson, M. V., Lloyd-Jones, L. R., Robinson, F., O’Neill, L., Piper, M., Davies, M., Martin, J., Kingsford, R., Brandis, K., Mac Nally, R., Klaassen, M., Langston, A., Hodgson, J., & Doerr, V. (2025). [Flight heights in ibis and spoonbills: Implications for collision risk](https://doi.org/10.1071/WR24160). *Wildlife Research*, 52(9). 
+
+Bold, B., **Galtbalt, B**., Davaasuren, B., Purev-Ochir, G., Gungaa, A., Saruul, A., Ichinkhorloo, S., Lkhagvajav, A., Batbayar, N., Zhang, Y., Lin, Z., Dixon, A., & Zhan, X. (2025). [Mammal-rich diet associated with reproductive success of Saker Falcons in Mongolia](https://doi.org/10.1016/j.avrs.2025.100277). *Avian Research*, 16(3)
+
+Purevdorj, A., Purev-Ochir, G., Gungaa, A., Bold, B., Davaasuren, B., Ganbold, M., **Galtbalt, B**., Batbayar, N., Rahman, L., & Dixon, A. (2025). [Electrocution of Steppe Eagles and Golden Eagles in Mongolia](https://doi.org/10.3356/jrr2476). *Journal of Raptor Research*, 59(2), 1–8. 
+
 **B. Galtbalt**\*, Socolar, J.\*, A. Johnston, F. A. La Sorte, O. J. Robinson, K. V. Rosenberg, and A. M. Dokter. 2024. [Seasonal macro-demography of North American bird populations revealed through participatory science](https://doi.org/10.1111/ecog.07349). *Ecography* e07349.
 
+
+**2024**<br>
 Yanco, S. W., R. Y. Oliver, F. Iannarilli, B. S. Carlson, G. Heine, U. Mueller, N. Richter, B. Vorneweg, Y. Andryushchenko, N. Batbayar, M. Dagys, M. Desholm, **B. Galtbalt**, A. E. Gavrilov, O. A. Goroshko, E. I. Ilyashenko, V. Y. Ilyashenko, J. Månsson, E. A. Mudrik, T. Natsagdorj, L. Nilsson, S. Sherub, H. Skov, T. Sukhbaatar, R. Zydelis, M. Wikelski, W. Jetz, and I. Pokrovsky. 2024. [Migratory birds modulate niche tradeoffs in rhythm with seasons and life history](https://doi.org/10.1073/pnas.2316827121). *Proceedings of the National Academy of Sciences* 121:e2316
 
 Zhang, Y., Z. Gu, B. Bold, B. Davaasuren, **B. Galtbalt**, A. Gungaa, G. Purev-Ochir, N. Batbayar, L. Rahman, X. Li, Q. Dai, X. Zhan, and A. Dixon. 2024. [Environmental effects on reproduction in a managed population of the harvested and Endangered Saker Falcon *Falco cherrug*](https://doi.org/10.1017/S095927092300031X). *Bird Conservation International* 34:e4.
